@@ -33,3 +33,7 @@ These transformations are then applied selectively to the numerical columns usin
 Finally, the notebook concatenates the processed categorical and numerical data into a single DataFrame called df_processed. This fully processed data is then saved back into a CSV file, overwriting the original file path. The shape of the processed data and a preview of the first few rows are displayed, confirming successful completion of preprocessing.
 
 In conclusion, this notebook demonstrates a well-structured data preprocessing pipeline using Jupyter Notebook. It includes essential steps such as data cleaning, encoding, transformation, and integration. This structured approach ensures that the dataset is clean, consistent, and ready for modeling or further statistical analysis.
+
+#OUTPUT
+
+<img width="1558" height="816" alt="Image" src="https://github.com/user-attachments/assets/1f5970af-3300-457e-ac2d-27a8a6ea0509" />
